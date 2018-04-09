@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-11-23T13:53:15.029Z</updated>
+  <updated>2018-04-09T13:15:02.822Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,16 @@
     <link href="http://yoursite.com/2017/08/03/hello-everyone/"/>
     <id>http://yoursite.com/2017/08/03/hello-everyone/</id>
     <published>2017-08-03T05:41:59.000Z</published>
-    <updated>2017-11-23T13:53:15.029Z</updated>
+    <updated>2018-04-09T13:15:02.822Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/React.html">REACT</a><br><a href="/Crm.html">CRM</a><br><a href="/Inke.html">INKE</a><br><a href="/Seniverse.html">Seniverse</a></p>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;/React.html&quot;&gt;REACT&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;/Crm.html&quot;&gt;CRM&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;/Inke.html&quot;&gt;INKE&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;/Seniverse.html&quot;&gt;Seniverse&lt;/a
+      
     
     </summary>
     
